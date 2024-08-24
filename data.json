@@ -1,0 +1,30 @@
+[
+    {
+        
+        "img": "/images/nike.png",
+        "name": "Zapatillas Nike",
+        "price": "80"
+
+    },
+    {
+        
+        "img": "/images/adidas.webp",
+        "name": "Sudadera Adidas",
+        "price": "60"
+
+    },
+    {
+        
+        "img": "/images/lotus.jpg",
+        "name": "Colgante Lotus",
+        "price": "120"
+
+    },
+    {
+        
+        "img": "/images/smartwatch.jpg",
+        "name": "SmartWatch Negro",
+        "price": "90"
+
+    }
+]
